@@ -2,7 +2,7 @@
 
 [참고영상](https://youtu.be/eJ3YysWaP_A?si=5DlYbOyqJW1FbTp6)
 
-1:08:28까지 완료
+3:18:54까지 완료
 
 ## 설치
 
@@ -23,4 +23,6 @@ npx prisma db push
 
 client
 npm i axios
+npm i react-quill
+npm i dompurify
 ```
