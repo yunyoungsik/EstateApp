@@ -4,7 +4,6 @@ import 'leaflet/dist/leaflet.css';
 import Pin from '../pin/Pin';
 
 function Map({ items }) {
-  console.log(items)
   return (
     <MapContainer
       center={items.length === 1 ? [items[0].latitude, items[0].longitude] : [37.5665, -126.9780]}

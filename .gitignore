@@ -5,3 +5,7 @@
 /client/node_modules
 /client/package-lock.json
 /client/.env
+
+/socket/node_modules
+/socket/package-lock.json
+/socket/.env

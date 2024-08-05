@@ -1,8 +1,8 @@
 # Estate APP
 
-[참고영상](https://youtu.be/eJ3YysWaP_A?si=5DlYbOyqJW1FbTp6)
+<imga width='100%' src="" />
 
-3:18:54까지 완료
+[참고영상](https://youtu.be/eJ3YysWaP_A?si=5DlYbOyqJW1FbTp6)
 
 ## 설치
 
@@ -25,4 +25,11 @@ client
 npm i axios
 npm i react-quill
 npm i dompurify
+npm i timeago.js
+npm i socket.io-client
+npm i zustand
+
+socket
+npm i nodemon
+npm i socket.io
 ```

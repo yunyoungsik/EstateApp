@@ -5,6 +5,8 @@ import testRoute from './routes/test.route.js';
 import authRoute from './routes/auth.route.js';
 import postRoute from './routes/post.route.js';
 import userRoute from './routes/user.route.js';
+import chatRoute from './routes/chat.route.js';
+import messageRoute from './routes/message.route.js';
 
 const app = express();
 
@@ -18,6 +20,10 @@ app.use('/api/auth', authRoute);
 app.use('/api/users', userRoute);
 // posts
 app.use('/api/posts', postRoute);
+// chats
+app.use('/api/chats', chatRoute);
+// message
+app.use('/api/messages', messageRoute);
 // test
 app.use('/api/test', testRoute);
 
