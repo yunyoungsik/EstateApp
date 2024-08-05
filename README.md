@@ -1,6 +1,6 @@
 # Estate APP
 
-<imga width='100%' src="" />
+<imga width='100%' src="https://github.com/yunyoungsik/EstateApp/blob/main/client/public/thumnail.png?raw=true" />
 
 [참고영상](https://youtu.be/eJ3YysWaP_A?si=5DlYbOyqJW1FbTp6)
 
